@@ -1,75 +1,23 @@
-<div align="center">
+# Hi, I'm Mujtaba
 
-# Mujtaba Shahid
+I work on machine learning and LLM systems, and I'm finishing my MS in AI at NUST in Islamabad. Most of what I build these days is retrieval-based: getting a model to answer from real documents instead of making things up.
 
-**AI Engineer** &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Islamabad
+My undergrad was in bioinformatics, which is how I got into ML in the first place. I spent a year doing computational biology research at the National Centre for Bioinformatics (QAU), and did a few Python internships along the way.
 
-<a href="https://linkedin.com/in/mujtabashahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:mujtabashahid445@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+## Projects
 
-</div>
+**[PharmRAG](https://github.com/MujtabaGit56/PharmRAG)** is a RAG system that answers medication questions from FDA drug labels. I compared a general embedding model against a medical one on 150 questions, and the medical one came out ahead on every measure. It uses FAISS, a cross-encoder reranker and Gemini, with a Streamlit front end.
 
-<br>
+**[artemis-homelab](https://github.com/MujtabaGit56/artemis-homelab)** is my home server: Proxmox on a mini PC running about 15 Docker containers, reachable over Tailscale with no open ports, and backed up (encrypted) to Google Drive.
 
-## About me
+I've also done a cancer genomics analysis on TCGA kidney tumour data and a small bioinformatics web app in Flask, which aren't on GitHub.
 
-I'm an AI engineer completing an MS in Artificial Intelligence at NUST. My work spans machine learning, deep learning and computer vision, and lately large language models: RAG systems, agent workflows with LangChain and LangGraph, and models in PyTorch.
+## Tools I use
 
-I came to AI from bioinformatics, so I'm drawn to problems where models have to be accurate and grounded in real data. Before my masters I built Python data pipelines and automation in a few internships, and spent a year on computational biology research at the National Centre for Bioinformatics.
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r,postgres,flask,docker,linux,bash,git" alt="Python, PyTorch, scikit-learn, R, PostgreSQL, Flask, Docker, Linux, Bash, Git">
 
-<br>
+Plus LangChain, LangGraph, Hugging Face and Pandas.
 
-## Featured projects
+## Contact
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 [PharmRAG](https://github.com/MujtabaGit56/PharmRAG)
-
-Medication Q&A that answers only from FDA drug labels, so every answer can be traced to its source.
-
-Searches ~100K labels, reranks with a medical cross-encoder, and generates with Gemini. Medical embeddings beat both a general model and a no-retrieval LLM across 150 test questions.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ [Artemis Homelab](https://github.com/MujtabaGit56/artemis-homelab)
-
-A home server I built and run on a Proxmox mini PC, with about 15 services in Docker.
-
-Remote access over Tailscale with no open ports, a locked-down container for sensitive data, and encrypted offsite backups that alert me when they fail.
-
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-**Also:** a cancer genomics analysis of 512 kidney tumour samples (Python, R) that pointed to MTOR and SF3B1 as key drivers, and a Flask tool that brings sequence alignment, motif analysis and phylogenetic trees into one interface.
-
-<br>
-
-## Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r,postgres,flask,docker,linux,bash,git&perline=10" alt="Tech stack icons">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-</p>
+[LinkedIn](https://linkedin.com/in/mujtabashahid) or [mujtabashahid445@gmail.com](mailto:mujtabashahid445@gmail.com)
