@@ -55,13 +55,13 @@ I've also done a cancer genomics analysis on TCGA kidney tumour data and a small
 <th width="33%">Apps and infrastructure</th>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"> <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch"> <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikit-learn" title="scikit-learn"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=r" height="40" alt="R" title="R"> <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" title="Flask"> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker"> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"> <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash"> <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" title="Python"> <img src="https://skillicons.dev/icons?i=pytorch" height="36" alt="PyTorch" title="PyTorch"> <img src="https://skillicons.dev/icons?i=sklearn" height="36" alt="scikit-learn" title="scikit-learn"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=r" height="36" alt="R" title="R"> <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" title="PostgreSQL"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" height="36" alt="Flask" title="Flask"> <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" title="Docker"> <img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" title="Linux"> <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" title="Git"></td>
 </tr>
 <tr>
 <td align="center"><sub>LangChain · LangGraph · Hugging Face · FAISS</sub></td>
 <td align="center"><sub>Pandas · SQL · data visualization</sub></td>
-<td align="center"><sub>Streamlit · Docker Compose · Proxmox</sub></td>
+<td align="center"><sub>Streamlit · Bash · Docker Compose · Proxmox</sub></td>
 </tr>
 </table>
