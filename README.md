@@ -2,11 +2,12 @@
 
 AI engineer and MS Artificial Intelligence student at NUST, Islamabad. I build LLM applications, retrieval-augmented generation (RAG) pipelines and data tools in Python.
 
-- **Now:** Business Intelligence Intern at Data BI (NSTP), building Power BI dashboards and reports for client organizations
+> **Actively looking for AI / ML engineering roles.** Reach me at [mujtabashahid445@gmail.com](mailto:mujtabashahid445@gmail.com) or on [LinkedIn](https://linkedin.com/in/mujtabashahid).
+
 - **Studying:** MS in Artificial Intelligence at NUST (machine learning, deep learning, computer vision)
-- **Background:** BS in Bioinformatics from Quaid-i-Azam University, plus a year of computational biology research at the National Centre for Bioinformatics
+- **Experience:** Power BI dashboards and reporting at Data BI, Python internships in automation and web scraping, and a year of computational biology research at the National Centre for Bioinformatics
+- **Background:** BS in Bioinformatics from Quaid-i-Azam University
 - **Interested in:** grounded LLM systems, retrieval and reranking, agent workflows with LangGraph, applied ML on health data, and self-hosted infrastructure
-- **Open to:** AI / ML engineering roles
 
 ---
 
@@ -41,8 +42,6 @@ A home server I built and run on a Proxmox mini PC: about 15 services in Docker,
 |---|---|---|
 | **Unified Bioinformatics Web Tool** | One web interface for sequence alignment, motif analysis and phylogenetic trees, with multi-step analyses chained into automated workflows | Flask, BioPython, Pandas, Matplotlib |
 | **Cancer Genomics Analysis (KIRC)** | Multi-omics analysis of 512 kidney tumour samples from TCGA; survival curves, volcano plots and pathway maps pointing to MTOR and SF3B1 as key drivers | Python, R, cBioPortal |
-| **Windows Setup Automation** | One-click, unattended setup for a new Windows PC: a Material-style app picker, silent installs via winget and GitHub releases, and an offline Office install | PowerShell, WPF, winget |
-| **Subscription Payment Tracker** | Tracks payments for a shared family subscription in Google Sheets: matches incoming payments, sends monthly reminders, handles arrears and rolls over to a new tab each year | Google Apps Script, Google Sheets |
 
 ---
 
@@ -53,7 +52,6 @@ A home server I built and run on a Proxmox mini PC: about 15 services in Docker,
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 **AI / ML:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
