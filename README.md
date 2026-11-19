@@ -48,8 +48,20 @@ I've also done a cancer genomics analysis on TCGA kidney tumour data and a small
 
 ## Tools I use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r,postgres,flask,docker,linux,bash,git" alt="Python, PyTorch, scikit-learn, R, PostgreSQL, Flask, Docker, Linux, Bash, Git">
-</p>
-
-<p align="center"><sub>Plus LangChain, LangGraph, Hugging Face and Pandas</sub></p>
+<table>
+<tr>
+<th width="33%">ML and LLMs</th>
+<th width="33%">Data</th>
+<th width="33%">Apps and infrastructure</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="Python, PyTorch, scikit-learn"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=r,postgres" alt="R, PostgreSQL"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask,docker,linux,bash,git" alt="Flask, Docker, Linux, Bash, Git"></td>
+</tr>
+<tr>
+<td align="center"><sub>LangChain · LangGraph · Hugging Face · FAISS</sub></td>
+<td align="center"><sub>Pandas · SQL · data visualization</sub></td>
+<td align="center"><sub>Streamlit · Docker Compose · Proxmox</sub></td>
+</tr>
+</table>
