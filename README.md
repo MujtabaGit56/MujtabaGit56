@@ -23,7 +23,7 @@ My undergrad was in bioinformatics, which is how I got into ML in the first plac
 <tr>
 <td width="50%" valign="top">
 
-#### [PharmRAG](https://github.com/MujtabaGit56/PharmRAG)
+### [PharmRAG](https://github.com/MujtabaGit56/PharmRAG)
 
 A RAG system that answers medication questions from FDA drug labels. I compared a general embedding model against a medical one on 150 questions, and the medical one came out ahead on every measure.
 
@@ -32,7 +32,7 @@ A RAG system that answers medication questions from FDA drug labels. I compared 
 </td>
 <td width="50%" valign="top">
 
-#### [artemis-homelab](https://github.com/MujtabaGit56/artemis-homelab)
+### [artemis-homelab](https://github.com/MujtabaGit56/artemis-homelab)
 
 My home server: Proxmox on a mini PC running about 15 Docker containers, reachable over Tailscale with no open ports, and backed up (encrypted) to Google Drive.
 
